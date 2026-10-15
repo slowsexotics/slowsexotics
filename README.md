@@ -6,4 +6,4 @@ UHI is a personal AI creator assistant in development. The goal is practical hel
 
 I care about free and open-source AI, privacy and user ownership, local-first systems, creative independence and accessible technology.
 
-UHI's public source release is being prepared. The current work focuses on security, honest documentation and a reliable local development preview. A project link will be added after the public repository is verified.
+Explore [UHI](https://github.com/slowsexotics/uhi), a macOS development preview for local creator profiles, feedback and optional local AI briefings. The current work focuses on security, honest documentation and reliable local setup.
