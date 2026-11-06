@@ -1,4 +1,6 @@
-![Slows Exotics](slows-exotics-banner.png)
+![Slows Exotics](slows-exotics-banner-small.jpg)
+
+See the [UHI System Map](https://slowsexotics.github.io/uhi/uhi-system-map.html) — a plain-English map of what's done, in progress, and coming next.
 
 # Independent developer and creator building UHI
 
