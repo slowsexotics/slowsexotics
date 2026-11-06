@@ -1,3 +1,5 @@
+![Slows Exotics](slows-exotics-banner.png)
+
 # Independent developer and creator building UHI
 
 I'm building UHI to make local-first personal AI useful to regular people, especially creators and independent entrepreneurs.
